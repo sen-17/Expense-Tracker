@@ -25,7 +25,7 @@ A simple Command-Line Interface(CLI) Python application for tracking personal ex
 Currently, all expenses are stored in memory only and will be lost when the program exits. Persistent storage (e.g., saving to a file or database) can be added as a future improvement.
 
 ## 🌐 Project Page
-You can find this project listed at [roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/expense-tracker)
+You can find this project listed at [https://roadmap.sh/projects/expense-tracker](roadmap.sh)
 
 ## 📄 License
 This project is open-source and available under the MIT License.
